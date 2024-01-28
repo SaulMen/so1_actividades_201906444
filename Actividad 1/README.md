@@ -5,7 +5,7 @@ ___
 
 ## **INDICE**
   - [**RESPONSABLES**](#responsables)
-  - [**TIPOS DE KERNEL Y SUS CARACTERiSTICAS**](#tipos-de-kernel-y-sus-caracteristicas)
+  - [**TIPOS DE KERNEL Y SUS CARACTERISTICAS**](#tipos-de-kernel-y-sus-caracteristicas)
   - [**USER VS KERNEL MODE**](#user-vs-kernel-mode)
   - [**INTERRUPTIONS VS TRAPS**](#interruptions-vs-traps)
 
@@ -22,7 +22,7 @@ ___
 ## **KERNEL**
 El kernel es el núcleo del sistema operativo, es el intermediario entre el software y el hardware. Este controla los accesos a la memoria, el procesador y los controladores.
 
-## **TIPOS DE KERNEL Y SUS CARACTERiSTICAS**
+## **TIPOS DE KERNEL Y SUS CARACTERISTICAS**
 
 - **Microkernel**: diseñados con pequeños tamaños, su función principal es de evitar el colapso total del sistema en caso de fallo. Cuenta con diferentes módulos para poder cumplir todas las tareas. OS X es el único que utiliza el microkernel.
 
